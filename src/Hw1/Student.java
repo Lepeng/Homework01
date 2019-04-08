@@ -1,4 +1,4 @@
-package test01;
+package Hw1;
 
 import java.util.Arrays;
 import java.util.Random;

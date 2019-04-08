@@ -1,4 +1,4 @@
-package test01;
+package Hw1;
 
 import java.io.BufferedReader;
 import java.io.File;
